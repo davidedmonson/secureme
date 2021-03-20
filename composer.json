@@ -1,0 +1,15 @@
+{
+    "name": "variux/secureme",
+    "type": "script",
+    "description": "Quick SSH tunnel",
+    "keywords": ["ssh","tunnel","vpn"],
+    "homepage": "https://github.com/davidedmonson/secureme",
+    "license": "NONE",
+    "authors": [
+        {
+            "name": "David Edmonson",
+            "email": "dev@variux.com",
+            "homepage": "http2://variux.com",
+            "role": "Developer"
+
+}
